@@ -1,0 +1,9 @@
+f103_moduel\cjson.o: ..\NET\CJSON\cJSON.c
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\string.h
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\stdio.h
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\math.h
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\stdlib.h
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\float.h
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\limits.h
+f103_moduel\cjson.o: D:\Keil_v5\MDK5.34\ARM\ARMCC\Bin\..\include\ctype.h
+f103_moduel\cjson.o: ..\NET\CJSON\cJSON.h
